@@ -1,0 +1,15 @@
+/workspaces/CodeSpaces/MyWorldCodeSpaces/bin/Debug/net7.0/MyWorldCodeSpaces
+/workspaces/CodeSpaces/MyWorldCodeSpaces/bin/Debug/net7.0/MyWorldCodeSpaces.deps.json
+/workspaces/CodeSpaces/MyWorldCodeSpaces/bin/Debug/net7.0/MyWorldCodeSpaces.runtimeconfig.json
+/workspaces/CodeSpaces/MyWorldCodeSpaces/bin/Debug/net7.0/MyWorldCodeSpaces.dll
+/workspaces/CodeSpaces/MyWorldCodeSpaces/bin/Debug/net7.0/MyWorldCodeSpaces.pdb
+/workspaces/CodeSpaces/MyWorldCodeSpaces/obj/Debug/net7.0/MyWorldCodeSpaces.csproj.AssemblyReference.cache
+/workspaces/CodeSpaces/MyWorldCodeSpaces/obj/Debug/net7.0/MyWorldCodeSpaces.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CodeSpaces/MyWorldCodeSpaces/obj/Debug/net7.0/MyWorldCodeSpaces.AssemblyInfoInputs.cache
+/workspaces/CodeSpaces/MyWorldCodeSpaces/obj/Debug/net7.0/MyWorldCodeSpaces.AssemblyInfo.cs
+/workspaces/CodeSpaces/MyWorldCodeSpaces/obj/Debug/net7.0/MyWorldCodeSpaces.csproj.CoreCompileInputs.cache
+/workspaces/CodeSpaces/MyWorldCodeSpaces/obj/Debug/net7.0/MyWorldCodeSpaces.dll
+/workspaces/CodeSpaces/MyWorldCodeSpaces/obj/Debug/net7.0/refint/MyWorldCodeSpaces.dll
+/workspaces/CodeSpaces/MyWorldCodeSpaces/obj/Debug/net7.0/MyWorldCodeSpaces.pdb
+/workspaces/CodeSpaces/MyWorldCodeSpaces/obj/Debug/net7.0/MyWorldCodeSpaces.genruntimeconfig.cache
+/workspaces/CodeSpaces/MyWorldCodeSpaces/obj/Debug/net7.0/ref/MyWorldCodeSpaces.dll
