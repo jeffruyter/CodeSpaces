@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Iidgvu6p8kMEEGcrlmKyNBJHZBSohdNwXQTSH49m+d7ccXvfjMvRUg3m0CS+OUmE/IZbyCZINFW5ztmAumCZg==",
+  "success": true,
+  "projectFilePath": "/workspaces/CodeSpaces/FSharpMyWorld/FSharpMyWorld.fsproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/fsharp.core/7.0.300/fsharp.core.7.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
